@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.mateus.todolist.utils.Utils;
 import jakarta.servlet.http.HttpServletRequest;
-import lombok.var;
+
 
 @RestController
 @RequestMapping("/tasks")
